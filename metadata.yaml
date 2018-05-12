@@ -1,0 +1,34 @@
+_repo: L-nore-et-autres-ballades_14912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bürger, Gottfried August
+    aliases:
+    - Büerger, Gottfried August
+    - Bürgher, Gottfried August
+    - Buerger, Gottfried August
+    - Burger, Gottfried August
+    - Burgher, Gottfried August
+    birthdate: 1747
+    deathdate: 1794
+    gutenberg_agent_id: '5748'
+    url: http://www.gutenberg.org/2009/agents/5748
+    wikipedia: http://en.wikipedia.org/wiki/Gottfried_August_B%C3%BCrger
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2005-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14912'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ballads, German -- Translations into French'
+- !lcc 'PT'
+title: Lénore et autres ballades
+url: http://www.gutenberg.org/ebooks/14912
